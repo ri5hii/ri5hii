@@ -34,12 +34,15 @@
 <details open>
 <summary><h2> 🧠 Who I Am</h2></summary>
 <br>
+🧠 Who I Am
 
-I'm a **B.Tech Computer Science student developer** with a relentless drive to engineer solutions that are not only functional but also elegant and impactful. My journey in tech is guided by two core principles: wanting a deep understanding of **systems architecture** and the creativity for **fully integrated solutions**.
+I'm a B.Tech Computer Science student developer driven by the pursuit of designing systems that are intelligent, secure, and deeply efficient. My journey in technology revolves around blending AI innovation with cybersecurity precision — building architectures that both learn and defend.
 
-- 🔭 **Career Focus:** Looking for Backend, AIML, AI Systems Engineer roles. Cloud-Native and Advanced Serverless Architectures, DevOps workflows using Python, Go and Mojo.
-- 🎉 **Passions:** Figuring out the nuances of powerful technologies like Go, Rust, Mojo and uncovering emerging possibilities as a Full Stack Developer. Strong interest in Game Development and making personal projects in systems programming using Rust, Lua and C++ w/ FFI
-- 🌱 **Ideology:** To lead projects that build transformative systems and brands from the ground up.
+🔭 Career Focus: Aiming for roles in AI/ML Engineering, AI Systems, and Cybersecurity Research, with strong interest in AI-driven security systems, threat detection, and privacy-preserving machine learning. I’m also exploring Cloud-Native AI pipelines, MLOps, and secure distributed systems built using Python, Go, and Mojo.
+
+🎉 Passions: Delving into how intelligence and security intersect — from neural architectures and LLM fine-tuning to ethical hacking, red teaming, and cryptographic design. I also enjoy experimenting with systems programming in Rust, C++, and Lua (via FFI) to understand how deep system-level principles can empower robust AI applications.
+
+🌱 Ideology: To lead initiatives that build trustworthy, scalable, and intelligent systems—solutions that don’t just adapt to the future, but define it.
 </details>
 <br>
 
