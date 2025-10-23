@@ -3,15 +3,15 @@
   Hi, I'm Rishi
 </h1>
 
-<h3 align="center">I build scalable systems and compelling solutions, merging cloud architecture with creative strategy.</h3>
+<h3 align="center">I engineer intelligent and secure systems, combining AI innovation with cybersecurity precision.</h3>
 
 <p align="center">
   <a href="https://github.com/ri5hii">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF¢er=true&width=435&lines=Aspiring+SDE+using+Go,+Python,+Mojo;AWS+Certified+Solutions+Architect;Full-Stack+Developer+and+Builder;AI+Advocate+and+Cybersecurity+Savvy;Open-Source+Contributor+and+Believer;Creative+Problem+Solving+Strategist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF&center=true&width=600&lines=AI%2FML+Engineer+%7C+Cybersecurity+Developer;Building+Trustworthy+and+Intelligent+Systems;AI+Driven+Threat+Detection+and+Defense;MLOps+%26+Cloud+Native+AI+Pipelines;Secure+Distributed+Systems+Architect;Open+Source+Contributor+%7C+Creative+Strategist" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Line 1: Profile Stats -->
+<!-- Profile Stats -->
 <p align="left">
   <a href="https://github.com/ri5hii">
     <img src="https://komarev.com/ghpvc/?username=ri5hii&style=flat-square&color=blue" alt="Profile Views" />
@@ -21,42 +21,40 @@
   </a>
 </p>
 
-<!-- Line 2: Language Versions -->
+<!-- Language Versions -->
 <p align="left">
-  <a href="https://go.dev/dl/"><img src="https://img.shields.io/github/v/tag/golang/go?style=flat-square&logo=go" alt="Go Version"/></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.14-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
-  <a href="https://www.modular.com/max/mojo"><img src="https://img.shields.io/badge/Mojo-24.4.0-FF4A00?style=flat-square&logo=mojo&logoColor=white" alt="Mojo"/></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.4.0-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-2.17-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
-  <a href="https://www.npmjs.com/package/typescript"><img src="https://img.shields.io/npm/v/typescript?style=flat-square&logo=typescript" alt="TypeScript Version"/></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/></a>
 </p>
 
 <br>
 <details open>
 <summary><h2> 🧠 Who I Am</h2></summary>
 <br>
-🧠 Who I Am
 
-I'm a B.Tech Computer Science student developer driven by the pursuit of designing systems that are intelligent, secure, and deeply efficient. My journey in technology revolves around blending AI innovation with cybersecurity precision — building architectures that both learn and defend.
+I'm a **B.Tech Computer Science** student developer focused on **AI systems** and **cybersecurity engineering**. I aim to craft solutions that are both **intelligent and resilient**, bridging deep learning, automation, and digital defense.
 
-🔭 Career Focus: Aiming for roles in AI/ML Engineering, AI Systems, and Cybersecurity Research, with strong interest in AI-driven security systems, threat detection, and privacy-preserving machine learning. I’m also exploring Cloud-Native AI pipelines, MLOps, and secure distributed systems built using Python, Go, and Mojo.
+🔭 **Career Focus:**  
+Pursuing roles in **AI/ML Engineering**, **AI Systems**, and **Cybersecurity Research** — specializing in **AI-driven security**, **adversarial defense**, and **privacy-preserving ML**. Currently exploring **Cloud-Native AI pipelines**, **MLOps**, and **secure distributed systems** using **Python**, **Rust**, and **Go**.
 
-🎉 Passions: Delving into how intelligence and security intersect — from neural architectures and LLM fine-tuning to ethical hacking, red teaming, and cryptographic design. I also enjoy experimenting with systems programming in Rust, C++, and Lua (via FFI) to understand how deep system-level principles can empower robust AI applications.
+🎉 **Passions:**  
+I love working at the intersection of **intelligence and security** — from **LLM fine-tuning** and **reinforcement learning** to **ethical hacking**, **cryptography**, and **threat detection systems**. I also experiment with **Rust** and **C++** to build low-level modules for **AI optimization** and **security automation**.
 
-🌱 Ideology: To lead initiatives that build trustworthy, scalable, and intelligent systems—solutions that don’t just adapt to the future, but define it.
+🌱 **Ideology:**  
+To build systems that **learn, protect, and evolve** — shaping an ecosystem where intelligence and security coexist seamlessly.
 </details>
-<br>
-
 
 ---
 
 ### 📊 Visual GitHub Insights
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ri5hii&theme=onedark&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" /> 
 </div>
 
 ### 📊 LeetCode Stats
-
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/user9664nr?ext=heatmap" alt="LeetCode Stats" style="width:50;" />
 </div>
@@ -66,69 +64,59 @@ I'm a B.Tech Computer Science student developer driven by the pursuit of designi
 <details open>
 <summary><h2> 🧰 Tech Stack & Tools</h2></summary>
 
-
-#### 💻 Languages
+#### 🤖 AI / ML Stack
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔥 Mojo-123524?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FBBF24?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVINO-0078D4?style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
-#### ☁️ Cloud & DevOps
+#### 🛡️ Cybersecurity & DevSecOps
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-5B5B5B?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-F26822?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+</p>
+
+#### ☁️ Cloud & MLOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Databases
+#### ⚙️ Systems & Programming
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF100?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-#### 🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 </details>
-<br>
-
-
-<details open>
-<summary><h2> 🛠️ Featured Projects</h2></summary>
-<br>
 
 ---
 
 <details open>
 <summary><h2> 💼 Experience Snapshot</h2></summary>
 <br>
-
-<h2> 🧠 Fun Facts & Personal Passions</h2>
-
+• Designed secure API-driven ML systems with emphasis on adversarial robustness and encryption protocols.  
+• Developed threat detection pipelines integrating AI for anomaly detection and behavioral analysis.  
+• Automated DevSecOps workflows and model deployment using Docker, FastAPI, and AWS Lambda.  
+</details>
 
 ---
 
 <details open>
 <summary><h2> 💬 Let’s Connect</h2></summary>
-
 
 <table>
   <tr>
@@ -148,7 +136,7 @@ I'm a B.Tech Computer Science student developer driven by the pursuit of designi
       </a>
     </td>
     <td valign="middle">
-      <a href="mailto:divijganjoo2003@gmail.com" target="_blank">rishi.0.4789@gmail.com</a>
+      <a href="mailto:rishi.0.4789@gmail.com" target="_blank">rishi.0.4789@gmail.com</a>
     </td>
   </tr>
 </table>
@@ -157,5 +145,5 @@ I'm a B.Tech Computer Science student developer driven by the pursuit of designi
 ---
 
 <p align="center">
-  <i>"The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come." - Steve Jobs</i>
+  <i>"The future belongs to those who can secure intelligence — and make intelligence secure."</i>
 </p>
