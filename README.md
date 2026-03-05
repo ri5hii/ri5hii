@@ -51,12 +51,12 @@ To build systems that **learn, protect, and evolve** — shaping an ecosystem wh
 
 ### 📊 Visual GitHub Insights
 <div align="center">
- <img src="https://zinnia-rho.vercel.app/api/trophy?username=ri5hii&theme=watchdog&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
+ <img src="https://zinnia-rho.vercel.app/api/trophy?username=ri5hii&theme=gruvbox&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
   <br>
-  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=ri5hii&layout=compact&hide_border=true&theme=watchdog" width="355" height="200" alt="Top Languages" />
-  <img src="https://zinnia-rho.vercel.app/api/stats?username=ri5hii&show_icons=true&theme=watchdog&hide_border=true" height="200" alt="GitHub Stats" />
+  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=ri5hii&layout=compact&hide_border=true&theme=gruvbox" width="355" height="200" alt="Top Languages" />
+  <img src="https://zinnia-rho.vercel.app/api/stats?username=ri5hii&show_icons=true&theme=gruvbox&hide_border=true" height="200" alt="GitHub Stats" />
   <br>
-  <img src="https://zinnia-rho.vercel.app/api/streak?user=ri5hii&hide_border=true&theme=watchdog" alt="Github Streak" /> 
+  <img src="https://zinnia-rho.vercel.app/api/streak?user=ri5hii&hide_border=true&theme=gruvbox" alt="Github Streak" /> 
 </div>
 
 ### 📊 LeetCode Stats
