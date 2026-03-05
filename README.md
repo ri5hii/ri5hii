@@ -51,7 +51,12 @@ To build systems that **learn, protect, and evolve** — shaping an ecosystem wh
 
 ### 📊 Visual GitHub Insights
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ri5hii&theme=onedark&title=-Followers,-Reviews&margin-w=10&margin-h=5&column=-1&no-frame=true&no-bg=true" alt="GitHub Trophies" /> 
+ <img src="https://zinnia-rho.vercel.app/api/trophy?username=ri5hii&theme=watchdog&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
+  <br>
+  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=ri5hii&layout=compact&hide_border=true&theme=watchdog" width="355" height="200" alt="Top Languages" />
+  <img src="https://zinnia-rho.vercel.app/api/stats?username=ri5hii&show_icons=true&theme=watchdog&hide_border=true" height="200" alt="GitHub Stats" />
+  <br>
+  <img src="https://zinnia-rho.vercel.app/api/streak?user=ri5hii&hide_border=true&theme=watchdog" alt="Github Streak" /> 
 </div>
 
 ### 📊 LeetCode Stats
@@ -95,11 +100,11 @@ To build systems that **learn, protect, and evolve** — shaping an ecosystem wh
 
 #### ⚙️ Systems & Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 </details>
 
