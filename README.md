@@ -3,152 +3,133 @@
   Hi, I'm Rishi
 </h1>
 
-<h3 align="center">I engineer intelligent and secure systems, combining AI innovation with cybersecurity precision.</h3>
+<h3 align="center">
+I design and build scalable backend systems — focused on performance, reliability, and real-world deployment.
+</h3>
 
 <p align="center">
-  <a href="https://github.com/ri5hii">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3399FF&center=true&width=600&lines=AI%2FML+Engineer+%7C+Cybersecurity+Developer;Building+Trustworthy+and+Intelligent+Systems;AI+Driven+Threat+Detection+and+Defense;MLOps+%26+Cloud+Native+AI+Pipelines;Secure+Distributed+Systems+Architect;Open+Source+Contributor+%7C+Creative+Strategist" alt="Typing SVG" />
-  </a>
+Backend Engineering • Distributed Systems • Infrastructure  
+<br/>
+Building Systems That Scale, Operate, and Endure  
+<br/>
+APIs • System Design • Automation  
 </p>
-
-<!-- Profile Stats -->
-<p align="left">
-  <a href="https://github.com/ri5hii">
-    <img src="https://komarev.com/ghpvc/?username=ri5hii&style=flat-square&color=blue" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/ri5hii?tab=followers">
-    <img src="https://img.shields.io/github/followers/ri5hii?label=Followers&style=flat-square" alt="GitHub Followers" />
-  </a>
-</p>
-
-<!-- Language Versions -->
-<p align="left">
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.14-3776AB?style=flat-square&logo=python" alt="Python Version"/></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.4.0-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-2.17-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/github/v/release/rust-lang/rust?style=flat-square&logo=rust" alt="Rust Version"/></a>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/></a>
-</p>
-
-<br>
-<details open>
-<summary><h2> 🧠 Who I Am</h2></summary>
-<br>
-
-I'm a **B.Tech Computer Science** student developer focused on **AI systems** and **cybersecurity engineering**. I aim to craft solutions that are both **intelligent and resilient**, bridging deep learning, automation, and digital defense.
-
-🔭 **Career Focus:**  
-Pursuing roles in **AI/ML Engineering**, **AI Systems**, and **Cybersecurity Research** — specializing in **AI-driven security**, **adversarial defense**, and **privacy-preserving ML**. Currently exploring **Cloud-Native AI pipelines**, **MLOps**, and **secure distributed systems** using **Python**, **Rust**, and **Go**.
-
-🎉 **Passions:**  
-I love working at the intersection of **intelligence and security** — from **LLM fine-tuning** and **reinforcement learning** to **ethical hacking**, **cryptography**, and **threat detection systems**. I also experiment with **Rust** and **C++** to build low-level modules for **AI optimization** and **security automation**.
-
-🌱 **Ideology:**  
-To build systems that **learn, protect, and evolve** — shaping an ecosystem where intelligence and security coexist seamlessly.
-</details>
 
 ---
 
-### 📊 Visual GitHub Insights
-<div align="center">
- <img src="https://zinnia-rho.vercel.app/api/trophy?username=ri5hii&theme=onedark&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
-  <br>
-  <img src="https://zinnia-rho.vercel.app/api/top-langs?username=ri5hii&layout=compact&hide_border=true&theme=dark" width="355" height="200" alt="Top Languages" />
-  <img src="https://zinnia-rho.vercel.app/api/stats?username=ri5hii&show_icons=true&theme=dark&hide_border=true" height="200" alt="GitHub Stats" />
-  <br>
-  <img src="https://zinnia-rho.vercel.app/api/streak?user=ri5hii&hide_border=true&theme=dark" alt="Github Streak" /> 
-</div>
+## 🧠 Who I Am
 
-### 📊 LeetCode Stats
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/user9664nr?ext=heatmap" alt="LeetCode Stats" style="width:50;" />
-</div>
+I'm a Computer Science student focused on **backend engineering and system design**.
+
+I care about how systems **behave under load**, **scale across environments**, and **stay reliable in production**.
+
+I’m less interested in surface-level features — more in the **architecture underneath**.
 
 ---
 
-<details open>
-<summary><h2> 🧰 Tech Stack & Tools</h2></summary>
+### 🔭 Focus
 
-#### 🤖 AI / ML Stack
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FBBF24?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenVINO-0078D4?style=for-the-badge&logo=intel&logoColor=white" />
-</p>
+- Backend systems and API design  
+- Distributed systems and service architecture  
+- Performance, reliability, and scalability  
+- Infrastructure and deployment workflows  
 
-#### 🛡️ Cybersecurity & DevSecOps
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-5B5B5B?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-F26822?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
-</p>
+---
 
-#### ☁️ Cloud & MLOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-</p>
+### ⚙️ What I’m Building Toward
 
-#### ⚙️ Systems & Programming
+- Production-grade backend systems  
+- Developer tools and infrastructure software  
+- Scalable services that solve real-world problems  
+
+---
+
+### 🧩 Current Stack
+
+- **Languages:** Go, Python, Rust  
+- **Backend:** FastAPI, REST/gRPC services  
+- **Infra:** Docker, Kubernetes, Linux  
+- **Databases:** PostgreSQL, Redis  
+
+---
+
+## 🧰 Tech Stack
+
+### Backend & Systems
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
-</details>
+
+### Infrastructure & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+### Data & Systems
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### Applied AI (when needed)
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
-<details open>
-<summary><h2> 💼 Experience Snapshot</h2></summary>
-<br>
-• Designed secure API-driven ML systems with emphasis on adversarial robustness and encryption protocols.  
-• Developed threat detection pipelines integrating AI for anomaly detection and behavioral analysis.  
-• Automated DevSecOps workflows and model deployment using Docker, FastAPI, and AWS Lambda.  
-</details>
+## 💼 Experience Snapshot
+
+- Designed and built backend services with focus on scalability and clean architecture  
+- Developed APIs and systems optimized for performance and reliability  
+- Containerized applications and managed deployment workflows  
+- Built systems integrating data processing and automation pipelines  
 
 ---
 
-<details open>
-<summary><h2> 💬 Let’s Connect</h2></summary>
+## 📊 GitHub Insights
 
-<table>
-  <tr>
-    <td valign="middle">
-      <a href="https://www.linkedin.com/in/hrishikesh-vadla/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td valign="middle">
-      <a href="https://www.linkedin.com/in/hrishikesh-vadla/" target="_blank">Hrishikesh Vadla</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <a href="mailto:rishi.0.4789@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td valign="middle">
-      <a href="mailto:rishi.0.4789@gmail.com" target="_blank">rishi.0.4789@gmail.com</a>
-    </td>
-  </tr>
-</table>
-</details>
+<div align="center">
+  <img src="https://zinnia-virid.vercel.app/api/top-langs?username=ri5hii&layout=compact&hide_border=true&theme=dark" width="355" /> 
+  <img src="https://zinnia-virid.vercel.app/api/stats?username=ri5hii&show_icons=true&theme=dark&hide_border=true" height="200" />
+</div>
+
+---
+
+## 🧭 Current Direction
+
+I’m focused on becoming a **strong backend and systems engineer**,  
+with an emphasis on **building software that scales cleanly and runs reliably in production**.
+
+I care about systems that:
+- handle real load  
+- fail predictably  
+- recover gracefully  
+
+---
+
+## 💬 Let’s Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/hrishikesh-vadla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:rishi.0.4789@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"The future belongs to those who can secure intelligence — and make intelligence secure."</i>
+  <i>"Good systems aren’t just built — they’re designed to survive."</i>
 </p>
