@@ -96,6 +96,8 @@ I’m less interested in surface-level features — more in the **architecture u
 ## 📊 GitHub Insights
 
 <div align="center">
+  <img src="https://zinnia-virid.vercel.app/api/trophy?username=ri5hii&theme=watchdog&title=-Followers,-Experience&margin-w=5&column=-1&no-frame=true&hide_border=true" alt="GitHub Trophies" />
+  <br>
   <img src="https://zinnia-virid.vercel.app/api/top-langs?username=ri5hii&layout=compact&hide_border=true&theme=dark" width="355" /> 
   <img src="https://zinnia-virid.vercel.app/api/stats?username=ri5hii&show_icons=true&theme=dark&hide_border=true" height="200" />
 </div>
