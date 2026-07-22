@@ -33,7 +33,7 @@ I’m less interested in surface-level features — more in the **architecture u
 
 - **Languages:** Go, Python, Shell, SQL
 - **Backend:** FastAPI, REST/gRPC services  
-- **Infra:** Docker, Podman, Vercel, Kubernetes, Linux  
+- **Infra:** Docker, Podman, Vercel, Linux, Github Actions  
 - **Databases:** SQLite, PostgreSQL  
 
 ---
@@ -52,8 +52,8 @@ I’m less interested in surface-level features — more in the **architecture u
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Podman-326CE5?style=for-the-badge&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub Actions-333333?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ### Data & Systems
