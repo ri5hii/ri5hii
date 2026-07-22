@@ -29,15 +29,6 @@ I’m less interested in surface-level features — more in the **architecture u
 
 ---
 
-### 🧩 Current Stack
-
-- **Languages:** Go, Python, Shell, SQL
-- **Backend:** FastAPI, REST/gRPC services  
-- **Infra:** Docker, Podman, Vercel, Linux, Github Actions  
-- **Databases:** SQLite, PostgreSQL  
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages
