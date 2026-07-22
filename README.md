@@ -19,8 +19,6 @@ I’m less interested in surface-level features — more in the **architecture u
 - Infrastructure and deployment workflows  
 </details>
 
----
-
 <details>
 <summary> <h2>⚙️ What I’m Building Toward</h2> </summary>
 
@@ -55,8 +53,6 @@ I’m less interested in surface-level features — more in the **architecture u
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
-
 ## 📊 GitHub Insights
 
 <div align="center">
@@ -73,8 +69,6 @@ I’m less interested in surface-level features — more in the **architecture u
 <p>
   <a href="https://www.linkedin.com/in/hrishikesh-vadla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:rishi.0.4789@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">
   <i>"Good systems aren’t just built — they’re designed to survive."</i>
