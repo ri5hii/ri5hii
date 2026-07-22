@@ -1,7 +1,5 @@
 ![Banner Animation](assets/Banner.gif)
 
----
-
 ## 🧠 Who I Am
 
 I'm a Computer Science student focused on **backend engineering and system design**.
@@ -43,7 +41,7 @@ I’m less interested in surface-level features — more in the **architecture u
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Podman-326CE5?style=for-the-badge&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-GitHub Actions-333333?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
@@ -71,8 +69,7 @@ I’m less interested in surface-level features — more in the **architecture u
 <p>
   <a href="https://www.linkedin.com/in/hrishikesh-vadla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rishi.0.4789@gmail.com" target="_blank">
+  </a><a href="mailto:rishi.0.4789@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
