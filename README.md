@@ -10,20 +10,24 @@ I’m less interested in surface-level features — more in the **architecture u
 
 ---
 
-### 🔭 Focus
+<details>
+<summary> <h2>🔭 Focus</h2> </summary>
 
 - Backend systems and API design  
 - Distributed systems and service architecture  
 - Performance, reliability, and scalability  
 - Infrastructure and deployment workflows  
+</details>
 
 ---
 
-### ⚙️ What I’m Building Toward
+<details>
+<summary> <h2>⚙️ What I’m Building Toward</h2> </summary>
 
 - Production-grade backend systems  
 - Developer tools and infrastructure software  
 - Scalable services that solve real-world problems  
+</details>
 
 ---
 
