@@ -1,9 +1,5 @@
 ![Banner Animation](assets/Banner.gif)
 
-<h3 align="center">
-I design and build scalable backend systems focused on performance, reliability, and real-world deployment.
-</h3>
-
 ---
 
 ## 🧠 Who I Am
@@ -68,15 +64,6 @@ I’m less interested in surface-level features — more in the **architecture u
 
 ---
 
-## 💼 Experience Snapshot
-
-- Designed and built backend services with focus on scalability and clean architecture  
-- Developed APIs and systems optimized for performance and reliability  
-- Containerized applications and managed deployment workflows  
-- Built systems integrating data processing and automation pipelines  
-
----
-
 ## 📊 GitHub Insights
 
 <div align="center">
@@ -85,18 +72,6 @@ I’m less interested in surface-level features — more in the **architecture u
   <img src="https://zinnia-virid.vercel.app/api/top-langs?username=ri5hii&layout=compact&hide_border=true&theme=dark" width="355" /> 
   <img src="https://zinnia-virid.vercel.app/api/stats?username=ri5hii&show_icons=true&theme=dark&hide_border=true" height="200" />
 </div>
-
----
-
-## 🧭 Current Direction
-
-I’m focused on becoming a **strong backend and systems engineer**,  
-with an emphasis on **building software that scales cleanly and runs reliably in production**.
-
-I care about systems that:
-- handle real load  
-- fail predictably  
-- recover gracefully  
 
 ---
 
